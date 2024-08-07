@@ -1,0 +1,5 @@
+asyncio
+aiogram
+pydantic
+pydantic-settings
+ffmpeg-python
